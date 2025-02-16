@@ -18,7 +18,4 @@
       
 license: CC0
 
-Contributors:
-    * azoezoe
-    * SansWord
-    * ddio
+Contributors: azoezoe, SansWord, ddio
