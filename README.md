@@ -19,6 +19,6 @@
 license: CC0
 
 Contributors:
-    * @azoezoe
-    * @SansWord
-    * @ddio
+    * azoezoe
+    * SansWord
+    * ddio
